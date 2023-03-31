@@ -19,8 +19,9 @@ function Home() {
       Batman was originally introduced as a ruthless vigilante who frequently killed or maimed criminals, but evolved into a character with a stringent moral code and strong sense of justice. Unlike most superheroes, Batman does not possess any superpowers, instead relying on his intellect, fighting skills, and wealth.
         </p>
       <div class="flex justify-center sm:pt-2 pt-0 ">
-        <button class="inline-flex text-white bg-red-700 border-0 py-2 px-6 focus:outline-none hover:bg-red-800 
-        rounded text-lg font-bold">Watch Now</button>
+        <a href="https://www.primevideo.com/detail/0SV3GW5Y2FH7EOYECU5UTQJFKO/ref=atv_sr_def_c_unkc_1_1_1?sr=1-1&pageTypeIdSource=ASIN&pageTypeId=B09HYZP78L&qid=1680234929176"> 
+          <button class="inline-flex text-white bg-red-700 border-0 py-2 px-6 focus:outline-none hover:bg-red-800 
+        rounded text-lg font-bold">Watch Now</button> </a>
       </div>
     </div>
   </div>
